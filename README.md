@@ -4,6 +4,7 @@ Basisco hasta intermedio
 -Python
 # Autor
 Derechos Reservados 
-Josue saldaña Fustamante
+Yoel Fernandez Saldaña
 ###
 ####
+#(C) DERECHOS DE COPIRIGHT
